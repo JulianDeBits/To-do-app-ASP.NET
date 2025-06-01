@@ -1,0 +1,11 @@
+C:\Users\GatitoPercebe\Desktop\ProyectosProgramacion\TodoApp ASP.NET\TodoApp.BLL\bin\Debug\net8.0\TodoApp.BLL.deps.json
+C:\Users\GatitoPercebe\Desktop\ProyectosProgramacion\TodoApp ASP.NET\TodoApp.BLL\bin\Debug\net8.0\TodoApp.BLL.dll
+C:\Users\GatitoPercebe\Desktop\ProyectosProgramacion\TodoApp ASP.NET\TodoApp.BLL\bin\Debug\net8.0\TodoApp.BLL.pdb
+C:\Users\GatitoPercebe\Desktop\ProyectosProgramacion\TodoApp ASP.NET\TodoApp.BLL\obj\Debug\net8.0\TodoApp.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GatitoPercebe\Desktop\ProyectosProgramacion\TodoApp ASP.NET\TodoApp.BLL\obj\Debug\net8.0\TodoApp.BLL.AssemblyInfoInputs.cache
+C:\Users\GatitoPercebe\Desktop\ProyectosProgramacion\TodoApp ASP.NET\TodoApp.BLL\obj\Debug\net8.0\TodoApp.BLL.AssemblyInfo.cs
+C:\Users\GatitoPercebe\Desktop\ProyectosProgramacion\TodoApp ASP.NET\TodoApp.BLL\obj\Debug\net8.0\TodoApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\GatitoPercebe\Desktop\ProyectosProgramacion\TodoApp ASP.NET\TodoApp.BLL\obj\Debug\net8.0\TodoApp.BLL.dll
+C:\Users\GatitoPercebe\Desktop\ProyectosProgramacion\TodoApp ASP.NET\TodoApp.BLL\obj\Debug\net8.0\refint\TodoApp.BLL.dll
+C:\Users\GatitoPercebe\Desktop\ProyectosProgramacion\TodoApp ASP.NET\TodoApp.BLL\obj\Debug\net8.0\TodoApp.BLL.pdb
+C:\Users\GatitoPercebe\Desktop\ProyectosProgramacion\TodoApp ASP.NET\TodoApp.BLL\obj\Debug\net8.0\ref\TodoApp.BLL.dll

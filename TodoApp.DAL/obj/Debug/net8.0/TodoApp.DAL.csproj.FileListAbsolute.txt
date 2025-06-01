@@ -1,0 +1,5 @@
+C:\Users\GatitoPercebe\Desktop\ProyectosProgramacion\TodoApp ASP.NET\TodoApp.DAL\obj\Debug\net8.0\TodoApp.DAL.csproj.AssemblyReference.cache
+C:\Users\GatitoPercebe\Desktop\ProyectosProgramacion\TodoApp ASP.NET\TodoApp.DAL\obj\Debug\net8.0\TodoApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GatitoPercebe\Desktop\ProyectosProgramacion\TodoApp ASP.NET\TodoApp.DAL\obj\Debug\net8.0\TodoApp.DAL.AssemblyInfoInputs.cache
+C:\Users\GatitoPercebe\Desktop\ProyectosProgramacion\TodoApp ASP.NET\TodoApp.DAL\obj\Debug\net8.0\TodoApp.DAL.AssemblyInfo.cs
+C:\Users\GatitoPercebe\Desktop\ProyectosProgramacion\TodoApp ASP.NET\TodoApp.DAL\obj\Debug\net8.0\TodoApp.DAL.csproj.CoreCompileInputs.cache
